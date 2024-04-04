@@ -9,7 +9,7 @@ public class SpringConfApplication extends SpringBootServletInitializer{
 
 	public static void main(String[] args) {
 				SpringApplication.run(SpringConfApplication.class, args);
-				
+		System.out.println("............................................................");				
 		System.out.println("............................................................");
 	}
 
